@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kalam: Kalam;
+  --font-inter: Inter;
+  --font-imprima: Imprima;
+  --font-jacques-francois: "Jacques Francois";
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-darkslategray: #4a514a;
+  --color-white: #fff;
+  --color-chocolate-100: #e57209;
+  --color-chocolate-200: #cc5900;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-3xs: 10px;
+  --gap-24xl: 43px;
+  --gap-2xl: 21px;
+
+  /* Paddings */
+  --padding-10xs: 3px;
+  --padding-3xs-5: 9.5px;
+  --padding-base: 16px;
+  --padding-9xs: 4px;
+  --padding-12xs: 1px;
+  --padding-12xs-5: 0.5px;
+
+  /* Border radiuses */
+  --br-16xl: 35px;
+  --br-31xl: 50px;
+}
